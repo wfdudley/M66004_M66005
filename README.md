@@ -21,5 +21,5 @@ left to right by defining RT_TO_LEFT_MODE.
 Because I found the datasheets for these parts hard to find, I have saved copies 
 <A HREF="https://www.dudley.nu/data-sheets/">here</A>.
 
-Bill Dudley
+Bill Dudley<br/>
 January 9, 2025
