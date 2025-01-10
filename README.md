@@ -1,5 +1,5 @@
 # M66004_M66005
-Arduino driver for M66004/5 vacuum fluorescent display driver
+Arduino driver for M66004/5 vacuum fluorescent display driver. 
 Only tested with ESP32.  You may have to fiddle with the SPI code
 for other processors.
 
@@ -17,6 +17,9 @@ to 1 to enable this.)
 Also, my display was wired by (I assume) a native Japanese speaker to read
 from right to left, so my code allows you to change the direction from "normal"
 left to right by defining RT_TO_LEFT_MODE.
+
+Because I found the datasheets for these parts hard to find, I have saved copies 
+<A HREF="https://www.dudley.nu/data-sheets/">here</A>.
 
 Bill Dudley
 January 9, 2025
